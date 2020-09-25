@@ -1,16 +1,15 @@
-# minnions_app_ui
+# Minnions App UI
 
-A new Flutter application.
+This is a UI for Minnions characters display with bueatiful animations.
 
-## Getting Started
+![App screenShot](https://i.imgur.com/mqV18Pk.jpg)
 
-This project is a starting point for a Flutter application.
+## Connect:
 
-A few resources to get you started if this is your first Flutter project:
+- [Facebook.](https://www.facebook.com/sourav.ojha.904)
+- [Instagram.](https://www.instagram.com/_ghost_wheel_/)
+- [LinkedIn](https://www.linkedin.com/in/sourav-kumar-ojha-82ba81195/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Download :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- you can download the app from [here.](https://bughunter-99.github.io/MinnionsAppUI-Flutter/.)
